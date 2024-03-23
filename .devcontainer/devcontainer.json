@@ -25,7 +25,8 @@
             "extensions": [
                 "dorzey.vscode-sqlfluff",
                 "esbenp.prettier-vscode",
-                "GitHub.codespaces"
+                "GitHub.codespaces",
+                "eamodio.gitlens"
             ]
         }
         
