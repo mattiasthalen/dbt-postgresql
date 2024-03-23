@@ -1,0 +1,6 @@
+﻿dbt-postgres~=1.7.10
+pgcli~=4.0.1
+jafgen~=0.3.1
+pre-commit~=3.0.4
+sqlfluff-templater-dbt~=2.0.0a5
+sqlfluff~=2.0.0a5
